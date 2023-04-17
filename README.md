@@ -1,11 +1,11 @@
 # Stock-management
-An inventory management system project that allows user to manage and maintain his/her inventory with ease.
+An inventory management system project that allows user to manage and maintain his/her inventory with ease. <br/>
 # Installation
-XAMPP Control Panel/n
-Python
-#Usage
-1.Start XAMPP control panel
-2.Goto Admin in MySQL
-3.Create database named "stock"
-4.Run stock.py
-5.Execute various commands and enjoy your own stock management system.
+XAMPP Control Panel <br/>
+Python <br/>
+# Usage <br/>
+1.Start XAMPP control panel <br/>
+2.Goto Admin in MySQL <br/>
+3.Create database named "stock" <br/>
+4.Run stock.py <br/>
+5.Execute various commands and enjoy your own stock management system. <br/>
