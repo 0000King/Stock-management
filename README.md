@@ -1,7 +1,7 @@
 # Stock-management
 An inventory management system project that allows user to manage and maintain his/her inventory with ease.
 # Installation
-XAMPP Control Panel
+XAMPP Control Panel/n
 Python
 #Usage
 1.Start XAMPP control panel
